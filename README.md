@@ -52,7 +52,7 @@
 
 ## 🛠️ Технологии
 
-- [Three.js](https://threejs.org/) — 3D-движок
+ — 3D-движок
 - Native JavaScript (ES6)
 - Web Audio API — генерация звуков
 - Pointer Lock API — управление камерой
