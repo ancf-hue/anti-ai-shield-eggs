@@ -11,7 +11,7 @@
 
 # 🥚 3D Egg Catcher — Ловец Яиц
 
-> Интерактивная 3D-игра на Three.js с системой озвучки, управлением с клавиатуры и поддержкой проекта.
+
 
 [![Three.js](https://img.shields.io/badge/Three.js-3D-orange?style=flat&logo=three.js)](https://threejs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript)](https://developer.mozilla.org/)
